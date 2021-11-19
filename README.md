@@ -1,5 +1,6 @@
 # Python Tutorial
 
+
 Here you can find the Jupyter Notebooks of our Python tutorial, part of Northeastern’s department of Bioengineering *Essential Tools for Biomedical Engineering*.  	
 
 All lessons in this module are organized as Jupyter Notebooks. This means that you can actually run the code examples, or change them and run them again to see what happens. We also included some brief exercises for you embedded in the notebooks - which you can code and run in the same notebook. 
